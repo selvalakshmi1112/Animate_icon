@@ -1,3 +1,3 @@
 # Animate_icon
 
-Done this Project using HTML
+Done this Project using HTML,CSS, JavaScript
